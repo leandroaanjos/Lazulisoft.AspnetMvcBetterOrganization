@@ -172,7 +172,6 @@
     <Content Include="wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
